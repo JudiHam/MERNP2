@@ -1,0 +1,16 @@
+{
+  "name": "P2",
+  "version": "0.1.0",
+  "description": "A small project using ejs templates.",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
